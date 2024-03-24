@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">oxeanbits-challenge</string>
+
+    <!--NameOfDays-->
+    <string name="monday">Segunda-feira</string>
+    <string name="tuesday">Terça-feira</string>
+    <string name="wednesday">Quarta-feira</string>
+    <string name="thursday">Quinta-feira</string>
+    <string name="friday">Sexta-feira</string>
+    <string name="saturday">Sabado</string>
+    <string name="sunday">Domingo</string>
+
+    <!--WeatherView.kt-->
+    <string name="temperature">Temperatura: %1$s</string>
+    <string name="relative_humidity">Umidade relativa do ar: %1$s</string>
+    <string name="probability_precipitation">Probabilidade de precipitação: %1$s</string>
+    <string name="ultraviolet_index">Índice ultravioleta: %1$s</string>
+    <string name="day_or_night">Dia ou noite: %1$s</string>
+    <string name="sunrise_hour">Hora do amanhecer: %1$s</string>
+    <string name="nightfall_hour">Hora do pôr do sol: %1$s</string>
+    <string name="timezone">Timezone: %1$s</string>
+    <string name="test_tag_weather_data_">test_tag_weather_data_</string>
+    <string name="day">Dia</string>
+    <string name="night">Noite</string>
+
+    <!--BottomSheetFilterWeather.kt-->
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="capitals">Capitais</string>
+    <string name="select">Selecione</string>
+    <string name="filter">FILTRAR</string>
+
+    <!--OxeanbitsSnackBar.kt-->
+    <string name="test_tag_text_snackbar">test_tag_text_snackbar</string>
+
+    <!--PreviewVariables-->
+    <string name="no_connection">Sem conexão com a internet</string>
+    <string name="preview_variable_title1">Titulo!</string>
+    <string name="preview_variable_subtitle1">Subtitulo!</string>
+    <string name="preview_variable_placeholder1">Placeholder!</string>
+    <string name="preview_variable_button1">Title Button 1</string>
+    <string name="preview_variable_title2">Title!!</string>
+    <string name="preview_variable_subtitle2">Subtitle!</string>
+    <string name="preview_variable_placeholder2">Placeholder!</string>
+    <string name="preview_variable_button2">Title Button 2</string>
+    <string name="preview_variable_button_confirm">Confirm</string>
+    <string name="preview_variable_button_cancel">Cancel</string>
+    <string name="preview_variable_product">Brahma Lata</string>
+    <string name="preview_variable_price">R$ 10,00</string>
+    <string name="preview_variable_only_price">10,00</string>
+    <string name="lorem_ipsum_dolor">lorem ipsum dolor</string>
+    <string name="lorem_ipsum_dolor_sit_amet">Lorem ipsum dolor sit amet</string>
+    <string name="lorem_ipsum_dolor_sit_amet_full">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+
+</resources>
