@@ -8,7 +8,7 @@
 - [Explicação](#explicação)
 - [Bibliotecas](#bibliotecas)
 - [API](#api)
-- [Como executar os testes](#como-executar-os-testes)
+- [Como executar os testes?](#como-executar-os-testes)
 - [Como executar o projeto?](#como-executar-o-projeto)
 
 ## [Sobre](#index)
